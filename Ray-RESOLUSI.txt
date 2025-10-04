@@ -5,3 +5,6 @@ Ray RESOLUSI:
 -Belajar GIT & GIThub
 -Belajar Node.js
 -Belajar React.js
+-Belajar FIGMA
+-Belajar Canva
+-Belajar Excel
