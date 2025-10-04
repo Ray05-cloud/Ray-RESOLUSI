@@ -4,4 +4,5 @@ Ray RESOLUSI:
 -Belajar JavaScript
 -Belajar GIT & GIThub
 -Belajar Node.js
--Belajar React.js
+-Belajar Frontend Frameworks
+-Belajar Backend Frameworks
