@@ -6,3 +6,6 @@ Ray RESOLUSI:
 -Belajar Node.js
 -Belajar Frontend Frameworks
 -Belajar Backend Frameworks
+-Belajar FIGMA
+-Belajar Canva
+-Belajar Excel
