@@ -3,3 +3,5 @@ Ray RESOLUSI:
 -Belajar CSS
 -Belajar JavaScript
 -Belajar GIT & GIThub
+-Belajar Node.js
+-Belajar React.js
