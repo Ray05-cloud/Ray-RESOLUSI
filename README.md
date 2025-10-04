@@ -1,2 +1,2 @@
 # Ray-RESOLUSI
-Repository untuk menyimpan rencana Ray kedepannya
+Repository ini untuk menyimpan rencana Ray kedepannya
